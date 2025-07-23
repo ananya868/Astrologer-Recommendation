@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Astro Vani",
+        "specialties": "love, relationships, marriage, soulmates, compatibility",
+        "description": "With over 15 years of experience, Astro Vani specializes in romantic compatibility, helping you understand your relationships and find your true life partner. She offers detailed readings on love and marriage."
+    },
+    {
+        "id": 2,
+        "name": "Career Guru Ramesh",
+        "specialties": "career, finance, business, success, investments",
+        "description": "Career Guru Ramesh provides precise guidance on professional growth, financial stability, and new business ventures. If you are at a career crossroads or planning a major investment, he is the expert to consult."
+    },
+    {
+        "id": 3,
+        "name": "Jyotish Anjali",
+        "specialties": "health, wellness, mental peace, spiritual growth",
+        "description": "Focusing on holistic well-being, Jyotish Anjali helps you navigate life's stresses to find mental peace and spiritual balance. Her sessions are aimed at improving your overall health and inner harmony."
+    },
+    {
+        "id": 4,
+        "name": "Pandit Sharma",
+        "specialties": "family, property, legal matters, vastu",
+        "description": "Pandit Sharma is an expert in resolving complex family disputes and providing advice on property-related and legal matters. He also offers Vastu Shastra consultations for home and office."
+    },
+    {
+        "id": 5,
+        "name": "Star Seer Priya",
+        "specialties": "love, career, personal growth, life path",
+        "description": "A versatile astrologer, Star Seer Priya assists with a wide range of life questions, from love and career to personal development. She helps you understand your life's purpose and make empowered decisions."
+    },
+    {
+        "id": 6,
+        "name": "Rishi Manish",
+        "specialties": "marriage, matchmaking, relationship conflicts",
+        "description": "Rishi Manish is a renowned expert in matchmaking and resolving marital conflicts. He analyzes horoscopes for compatibility and provides remedies for a harmonious married life."
+    },
+    {
+        "id": 7,
+        "name": "Financial Astrologer Ravi",
+        "specialties": "stock market, trading, wealth management, finance",
+        "description": "Specializing in financial astrology, Ravi helps traders and investors make informed decisions. He analyzes planetary positions to predict market trends and guide wealth creation."
+    },
+    {
+        "id": 8,
+        "name": "Healer Divya",
+        "specialties": "emotional healing, stress, anxiety, wellness",
+        "description": "Healer Divya offers guidance for those struggling with emotional distress, stress, and anxiety. Her compassionate approach helps you find clarity and emotional well-being."
+    },
+    {
+        "id": 9,
+        "name": "Acharya Krish",
+        "specialties": "business, career, foreign travel, education",
+        "description": "Acharya Krish provides insights into professional life, including scaling your business, advancing your career, and opportunities for foreign travel or higher education."
+    },
+    {
+        "id": 10,
+        "name": "Vedic Master Gopal",
+        "specialties": "vedic astrology, horoscope analysis, general life predictions",
+        "description": "An expert in traditional Vedic astrology, Vedic Master Gopal offers comprehensive horoscope readings covering all aspects of life, providing a complete overview of your past, present, and future."
+    }
+]

@@ -1,0 +1,65 @@
+[
+    {
+        "user_id": "user_001",
+        "chat_history": [
+            {"sender": "user", "message": "Hi, I'm not sure where to start."},
+            {"sender": "bot", "message": "Hello! I'm here to help. Please tell me what's on your mind."},
+            {"sender": "user", "message": "Well, everything at work just feels like a dead end. My manager is difficult, and I feel so unmotivated. I'm worried about my salary too. I just need to know if I should start looking for something else."}
+        ]
+    },
+    {
+        "user_id": "user_002",
+        "chat_history": [
+            {"sender": "user", "message": "Hey... so all my friends are getting engaged or married and I'm just... here. I've tried everything but nothing seems to work out. I'm starting to feel really alone and wondering if I'll ever find someone special."}
+        ]
+    },
+    {
+        "user_id": "user_003",
+        "chat_history": [
+            {"sender": "user", "message": "Hello. My business has hit a wall. Sales have been down for months and I'm pouring all my savings into it. My family is getting worried. I need to know if I should keep pushing or if it's a lost cause."}
+        ]
+    },
+    {
+        "user_id": "user_004",
+        "chat_history": [
+            {"sender": "user", "message": "I need some advice. Things with my partner feel different lately. The connection isn't the same and I keep questioning if we want the same things in the future. Is this just a rough patch or a red flag?"}
+        ]
+    },
+    {
+        "user_id": "user_005",
+        "chat_history": [
+            {"sender": "user", "message": "Namaste. I feel like I'm just going through the motions. My job is fine, my life is okay, but I don't feel any real joy. I want to find a deeper purpose and just feel more aligned and at peace with myself."}
+        ]
+    },
+    {
+        "user_id": "user_006",
+        "chat_history": [
+            {"sender": "user", "message": "Hi. I'm not sure I believe in all this, but my friend insisted. I just want to know if there's anything I should be aware of for the next year? Like, any big changes in my job or personal life?"}
+        ]
+    },
+    {
+        "user_id": "user_007",
+        "chat_history": [
+            {"sender": "user", "message": "Hello, I'm writing because things at home are so tense. It feels like everyone is walking on eggshells, especially about the old house. I just want to restore some peace and harmony for my family."}
+        ]
+    },
+    {
+        "user_id": "user_008",
+        "chat_history": [
+            {"sender": "user", "message": "I have to make a huge decision. I got an offer to study abroad, but it means leaving my family and partner behind. I am completely torn apart and don't know which path to take. It's a massive step."}
+        ]
+    },
+    {
+        "user_id": "user_009",
+        "chat_history": [
+            {"sender": "user", "message": "I've been feeling so tired and just... down. I can't seem to shake this feeling of heaviness. It's like a dark cloud is following me around. I want to feel like my old self again."}
+        ]
+    },
+    {
+        "user_id": "user_010",
+        "chat_history": [
+            {"sender": "bot", "message": "Welcome. What would you like to discuss?"},
+            {"sender": "user", "message": "I'm thinking of investing some money in the stock market, but I'm terrified. I hear so many stories about people losing everything. I need some guidance on whether it's a good idea for me right now."}
+        ]
+    }
+]

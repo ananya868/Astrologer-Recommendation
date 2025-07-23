@@ -1,0 +1,38 @@
+# Basic AI Astrologer Logic
+#
+# Simple pseudocode for an agent that gives advice based on a user's
+# horoscope or palm reading summary.
+
+# The main function takes the user's text.
+FUNCTION get_astro_insight(user_input):
+
+    # 1. Define the system prompt for the LLM.
+    # This sets the persona, task, and most importantly, the safety rules.
+    system_prompt = """
+        ROLE: You are Astro-Gemini, a wise and empathetic AI guide.
+        TASK: Analyze the user's reading (horoscope/palmistry) and give one short, empowering piece of advice.
+        TONE: Calming and inspiring.
+        RULES:
+            - Focus on personal growth, not fortune-telling.
+            - ABSOLUTELY NO medical, financial, or legal advice.
+            - NEVER predict negative events (death, illness, etc.).
+    """
+
+    # 2. Check if the input is relevant before calling the API.
+    # A simple keyword filter to save resources and handle irrelevant queries.
+    if not text_contains_keywords(user_input, ["horoscope", "palm", "zodiac", "life line", "saturn"]):
+        return "My wisdom is drawn from the stars. Please provide a horoscope or palm reading for me to interpret."
+
+    # 3. Combine the system prompt with the user's text and call the LLM.
+    final_prompt = system_prompt + "Here is the user's reading: " + user_input
+    ai_response = call_llm_api(final_prompt)
+    
+    # 4. Do a final safety check on the output.
+    # A last line of defense against the AI generating forbidden content.
+    if response_contains_forbidden_words(ai_response, ["doctor", "invest", "legal", "death"]):
+        return "The stars point toward self-discovery. Focus on your inner strength and the positive path ahead."
+    else:
+        # If it's safe, return the AI's response.
+        return ai_response
+
+# End of logic.

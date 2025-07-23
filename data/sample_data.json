@@ -1,0 +1,222 @@
+[
+  {
+    "id": "CASE_001",
+    "user_input": {
+      "profile": "Male, 28, Software Engineer",
+      "chat_transcript": "Hi, I'm feeling really stuck. My career isn't moving, and I'm thinking of starting my own software company but I'm worried about the financial risk. I just don't know if it's the right move for me."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Aarav Sharma", "Ananya Reddy", "Sneha Gupta"],
+      "reasoning": "User has a direct career and business question with a financial component, making Aarav Sharma the primary choice. The need for 'Decision Making' about the startup makes Ananya Reddy a strong secondary choice. The general feeling of being 'stuck' relates to 'Life Path & Purpose', making Sneha Gupta relevant for a broader perspective."
+    }
+  },
+  {
+    "id": "CASE_002",
+    "user_input": {
+      "profile": "Female, 32, Marketing Manager",
+      "chat_transcript": "My partner and I have been together for 5 years. Things are getting serious and we're talking about marriage, but I have this nagging feeling of doubt. Are we really compatible for the long haul?"
+    },
+    "ideal_recommendation": {
+      "top_3": ["Priya Singh", "Mira Kapoor", "Ananya Reddy"],
+      "reasoning": "The user's core issue is 'Love & Relationships' and 'Marriage Compatibility', making Priya Singh the perfect match. The question about the 'long haul' relates to 'Timing of Events' (marriage), making Mira Kapoor relevant. The feeling of 'doubt' can be addressed by Ananya Reddy's 'Decision Making' specialty."
+    }
+  },
+  {
+    "id": "CASE_003",
+    "user_input": {
+      "profile": "Male, 45, Teacher",
+      "chat_transcript": "Lately, I feel like I'm carrying a heavy weight. It's not just stress, it feels deeper, like something from my past is holding me back. I want to understand and heal."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Rohan Desai", "Divya Patel", "Sneha Gupta"],
+      "reasoning": "The user explicitly mentions a feeling of a 'heavy weight' from the 'past', which directly maps to Rohan Desai's 'Past Life Karma' and 'Spiritual Healing'. The feeling of being held back by something deep points to 'Emotional Blockages', making Divya Patel a strong choice. A general need for understanding one's path suggests Sneha Gupta's 'Life Path & Purpose' expertise."
+    }
+  },
+  {
+    "id": "CASE_004",
+    "user_input": {
+      "profile": "Female, 22, University Student",
+      "chat_transcript": "I have two job offers and I have to decide by tomorrow! One is stable and safe, the other is a risky startup. I am totally paralyzed. I just need a quick 'yes or no' style reading to help me choose."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Ananya Reddy", "Aarav Sharma", "Mira Kapoor"],
+      "reasoning": "The user's primary need is urgent 'Decision Making' with a 'yes/no' preference, making Tarot reader Ananya Reddy the top recommendation. Since the decision is about career, Aarav Sharma is a relevant secondary option. The urgency relates to 'Timing of Events', making Mira Kapoor also a suitable choice."
+    }
+  },
+  {
+    "id": "CASE_005",
+    "user_input": {
+      "profile": "Male, 58, Retired",
+      "chat_transcript": "My energy has been very low recently and I've had a few minor health scares. Doctors say I'm fine, but I'm worried about my future health and how to maintain my vitality."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Vikram Mehta", "Rohan Desai", "Divya Patel"],
+      "reasoning": "The user's primary concern is 'Health & Wellness' and 'Longevity', making Palmist Vikram Mehta the most direct match. The feeling of low energy and health scares can be interpreted as a need for 'Spiritual Healing' (Rohan Desai) or clearing 'Emotional Blockages' that manifest physically (Divya Patel)."
+    }
+  },
+  {
+    "id": "CASE_006",
+    "user_input": {
+      "profile": "Female, 35, Unemployed",
+      "chat_transcript": "I feel so lost. I don't know what I'm supposed to be doing with my life. Nothing feels right. What is my purpose? Why am I here?"
+    },
+    "ideal_recommendation": {
+      "top_3": ["Sneha Gupta", "Rohan Desai", "Divya Patel"],
+      "reasoning": "The user explicitly asks about their 'purpose', making Numerologist Sneha Gupta ('Life Path & Purpose') the number one choice. The feeling of being 'lost' aligns with Rohan Desai's 'Spiritual Healing' and Divya Patel's focus on achieving 'Mental Clarity'."
+    }
+  },
+  {
+    "id": "CASE_007",
+    "user_input": {
+      "profile": "Couple, 30s",
+      "chat_transcript": "We just bought a new house, but ever since we moved in, there's been a lot of tension and arguments. The energy just feels 'off'. We're even thinking of moving again."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Karan Joshi", "Arjun Verma", "Priya Singh"],
+      "reasoning": "The problem is centered on a 'new house' with bad energy, which is the exact domain of Karan Joshi ('Vaastu Shastra', 'Home & Property Harmony'). The 'tension and arguments' point towards 'Family Disputes', making Arjun Verma a good fit. Since the issue is between a couple, Priya Singh ('Love & Relationships') is also relevant."
+    }
+  },
+  {
+    "id": "CASE_008",
+    "user_input": {
+      "profile": "Female, 34, Married",
+      "chat_transcript": "My husband and I have been trying for a baby for over two years. We're starting to lose hope. I just want to know if it's in our destiny, and if so, when?"
+    },
+    "ideal_recommendation": {
+      "top_3": ["Mira Kapoor", "Priya Singh", "Rohan Desai"],
+      "reasoning": "The user's specific questions are about 'Childbirth' and 'when' it might happen, making Mira Kapoor ('KP System', 'Timing of Events') the most specialized choice. The context is a marital one, so Priya Singh ('Marriage Compatibility') is relevant. The theme of destiny and hope relates to deeper spiritual questions, making Rohan Desai ('Past Life Karma') a good option for a different perspective."
+    }
+  },
+  {
+    "id": "CASE_009",
+    "user_input": {
+      "profile": "Male, 41, Small Business Owner",
+      "chat_transcript": "I'm drowning in debt. No matter what I do, some new obstacle comes up and my business struggles. My relationship with my brother, who is my business partner, is also falling apart over this."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Arjun Verma", "Aarav Sharma", "Divya Patel"],
+      "reasoning": "The user's problems are explicitly 'Debt & Obstacle Removal' and 'Family Disputes', which are the core specialties of Arjun Verma (Lal Kitab). The business context makes Aarav Sharma ('Career & Business') also highly relevant. The feeling of 'drowning' points to a need for 'Mental Clarity', making Divya Patel a good supportive choice."
+    }
+  },
+  {
+    "id": "CASE_010",
+    "user_input": {
+      "profile": "Female, 29, Graphic Designer",
+      "chat_transcript": "I have so much creative block lately. My mind feels foggy and I can't seem to focus. It's affecting my work. I just want to clear my head and find my creative spark again."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Divya Patel", "Sneha Gupta", "Ananya Reddy"],
+      "reasoning": "The main issue is a 'foggy' mind and a need to 'clear my head', which perfectly matches Divya Patel's 'Mental Clarity' and 'Emotional Blockages' specialty. The creative block relates to a disconnection from one's core purpose, making Sneha Gupta ('Life Path & Purpose') a good fit. A quick reading from Ananya Reddy ('Immediate Future') could also help break the paralysis."
+    }
+  },
+  {
+    "id": "CASE_011",
+    "user_input": {
+      "profile": "Male, 33, Doctor",
+      "chat_transcript": "I am financially successful and my career is stable, but I feel an intense emotional void. My relationships never last. I feel like there's a pattern I can't break. Is there something in my chart about this?"
+    },
+    "ideal_recommendation": {
+      "top_3": ["Priya Singh", "Divya Patel", "Rohan Desai"],
+      "reasoning": "The core problem is a repeating pattern in 'Love & Relationships', making Priya Singh the primary expert. The 'emotional void' and feeling of being stuck in a pattern point directly to 'Emotional Blockages' (Divya Patel) and potentially 'Past Life Karma' (Rohan Desai)."
+    }
+  },
+  {
+    "id": "CASE_012",
+    "user_input": {
+      "profile": "Female, 50, Homemaker",
+      "chat_transcript": "My husband wants us to sell our family home and move to a different city after he retires. I am very attached to this house and the idea gives me anxiety. I don't know if this move is good for our family's harmony."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Karan Joshi", "Priya Singh", "Ananya Reddy"],
+      "reasoning": "The user's problem involves 'Relocation' and 'Home Harmony', which are Karan Joshi's specialties. The conflict with her husband makes it a 'Relationship' issue, so Priya Singh is relevant. The core of the problem is a big life decision, making Ananya Reddy a good choice for clarity."
+    }
+  },
+  {
+    "id": "CASE_013",
+    "user_input": {
+      "profile": "Male, 25, Looking for work",
+      "chat_transcript": "I've been on so many job interviews. When will I finally get a job? I need to know a potential timeline, it's driving me crazy."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Mira Kapoor", "Aarav Sharma", "Ananya Reddy"],
+      "reasoning": "The user's most pressing question is 'when', which is the specialty of Mira Kapoor ('Timing of Events'). The context is clearly 'Career', making Aarav Sharma the second most relevant astrologer. For a quick outlook on the 'Immediate Future', Ananya Reddy is also a strong choice."
+    }
+  },
+  {
+    "id": "CASE_014",
+    "user_input": {
+      "profile": "Female, 42, Lawyer",
+      "chat_transcript": "I have a very difficult legal case right now. On top of that, my father is sick and my brother and I are fighting over his care. The stress is unbearable. I feel like everything is blocked."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Arjun Verma", "Divya Patel", "Vikram Mehta"],
+      "reasoning": "This is a multi-faceted problem. The user is facing 'Obstacle Removal' (legal case) and 'Family Disputes', making Arjun Verma a perfect match. The feeling of 'unbearable stress' and being 'blocked' points to Divya Patel ('Mental Clarity'). The concern for her father's sickness brings in the 'Health & Wellness' aspect, making Vikram Mehta relevant."
+    }
+  },
+  {
+    "id": "CASE_015",
+    "user_input": {
+      "profile": "Male, 39, Entrepreneur",
+      "chat_transcript": "My name is Steven, but I've always felt it doesn't suit me. A friend told me that changing my name's spelling could change my luck. Is that true? I feel my life path has been a struggle and needs a reset."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Sneha Gupta", "Rohan Desai", "Aarav Sharma"],
+      "reasoning": "The user is asking directly about 'Name Correction' and its effect on his 'Life Path', which is the core specialty of numerologist Sneha Gupta. The feeling of a life-long struggle and needing a 'reset' suggests a deeper look into 'Past Life Karma' with Rohan Desai. As an entrepreneur, the underlying motive is success, making Aarav Sharma ('Career & Business') also relevant."
+    }
+  },
+  {
+    "id": "CASE_016",
+    "user_input": {
+      "profile": "Female, 26, Artist",
+      "chat_transcript": "I keep having the same dream over and over. It's very vivid and I feel like it's trying to tell me something. I wake up feeling emotionally drained. I want to understand what my subconscious is trying to say."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Divya Patel", "Rohan Desai", "Sneha Gupta"],
+      "reasoning": "Understanding dreams and the subconscious falls under the umbrella of 'Psychic Reading' and 'Mental Clarity', making Divya Patel the top choice. The feeling that the dream is a message from the past or has a deeper meaning aligns with Rohan Desai's 'Spiritual Healing'. The search for meaning in the dream relates to understanding one's broader 'Life Path & Purpose' with Sneha Gupta."
+    }
+  },
+  {
+    "id": "CASE_017",
+    "user_input": {
+      "profile": "Male, 65, Farmer",
+      "chat_transcript": "A company wants to buy my ancestral land to build a factory. The money is good, but my son is against it. He says we will anger the spirits of the land. I'm torn between financial security and family tradition."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Karan Joshi", "Arjun Verma", "Aarav Sharma"],
+      "reasoning": "The problem involves land and its harmony ('Home & Property Harmony'), a key area for Karan Joshi. The conflict with the son is a 'Family Dispute', making Arjun Verma a relevant choice. The core decision is about 'Financial Growth', which is Aarav Sharma's expertise. This covers the property, family, and financial angles of the problem."
+    }
+  },
+  {
+    "id": "CASE_018",
+    "user_input": {
+      "profile": "Female, 31, Single",
+      "chat_transcript": "All my friends are getting married. I feel so left behind. Will I ever find someone? I want to know when I'm likely to get married and what my love life looks like."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Priya Singh", "Mira Kapoor", "Ananya Reddy"],
+      "reasoning": "The central theme is 'Love & Relationships', making Priya Singh the top recommendation. The specific question 'when will I get married' is perfectly suited for Mira Kapoor ('Timing of Events'). For a more immediate outlook on her love life, Ananya Reddy's 'Immediate Future' readings would be very helpful."
+    }
+  },
+  {
+    "id": "CASE_019",
+    "user_input": {
+      "profile": "Male, 52, Manager",
+      "chat_transcript": "I've been feeling a strange pain in my left hand for months. I've seen specialists, but they find nothing wrong. I'm starting to wonder if it's more than just physical. Can my palm lines tell me anything?"
+    },
+    "ideal_recommendation": {
+      "top_3": ["Vikram Mehta", "Rohan Desai", "Divya Patel"],
+      "reasoning": "The user specifically mentions his 'hand' and 'palm lines', making Vikram Mehta ('Palmistry') the most direct and obvious choice. The suspicion that the issue is 'more than just physical' points towards a need for 'Spiritual Healing' (Rohan Desai) or an investigation into 'Emotional Blockages' that might manifest physically (Divya Patel)."
+    }
+  },
+  {
+    "id": "CASE_020",
+    "user_input": {
+      "profile": "Couple, 40s",
+      "chat_transcript": "My wife and I are in business together and it's ruining our marriage. We fight about money and decisions constantly. We're at a breaking point, facing both business failure and divorce."
+    },
+    "ideal_recommendation": {
+      "top_3": ["Priya Singh", "Aarav Sharma", "Arjun Verma"],
+      "reasoning": "This is a complex case with intertwined problems. The 'ruining our marriage' aspect makes Priya Singh ('Love & Relationships') essential. The 'business failure' and 'money' fights make Aarav Sharma ('Career & Business', 'Financial Growth') equally critical. The constant fighting falls under 'Family Disputes', making Arjun Verma a solid third recommendation to address the conflict directly."
+    }
+  }
+]
